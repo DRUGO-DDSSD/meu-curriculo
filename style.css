@@ -1,0 +1,20 @@
+
+.foto-perfil {
+   
+ display: block; /* Ensure block-level behavior */
+  margin-left: auto;
+  margin-right: auto;
+width: 300px
+
+    
+}
+
+.audio-player {
+    display: block;
+    margin: 10px auto;
+}
+.imagem-full {
+   width: 100vw;      /* largura total da tela */
+    height: 100vh;     /* altura total da tela */
+    object-fit: cover; /* preenche sem distorcer */
+}
